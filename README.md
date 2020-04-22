@@ -2,7 +2,7 @@
 Arduino library to support STM32 Low Power.
 
 ## Requirement
- * [Arduino_Core_STM32](https://github.com/stm32duino/Arduino_Core_STM32) version >= 1.3.0
+ * [Arduino_STM32](https://github.com/rogerclarkmelbourne/Arduino_STM32)
 
 ## API
 
