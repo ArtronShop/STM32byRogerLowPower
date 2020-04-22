@@ -1,0 +1,27 @@
+#######################################
+# Syntax Coloring Map For Energy Saving
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+ArduinoLowPower	KEYWORD1
+LowPower	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+idle	KEYWORD2
+sleep	KEYWORD2
+deepSleep	KEYWORD2
+attachInterruptWakeup	KEYWORD2
+
+IDLE_MODE	LITERAL1
+SLEEP_MODE	LITERAL1
+DEEPSLEEP_MODE	LITERAL1
+
+#######################################
+# Constants (LITERAL1)
+#######################################
